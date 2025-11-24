@@ -1,0 +1,3 @@
+Text file:
+Read:
+This Is the New Text File Imported In R Studios
